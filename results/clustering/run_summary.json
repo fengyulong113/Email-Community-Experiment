@@ -1,0 +1,37 @@
+[
+  {
+    "seed": 0,
+    "louvain_community_count": 8,
+    "kmeans_target_k": 8,
+    "kmeans_actual_k": 8,
+    "kmeans_n_iter": 22
+  },
+  {
+    "seed": 1,
+    "louvain_community_count": 7,
+    "kmeans_target_k": 7,
+    "kmeans_actual_k": 7,
+    "kmeans_n_iter": 13
+  },
+  {
+    "seed": 2,
+    "louvain_community_count": 8,
+    "kmeans_target_k": 8,
+    "kmeans_actual_k": 8,
+    "kmeans_n_iter": 25
+  },
+  {
+    "seed": 3,
+    "louvain_community_count": 8,
+    "kmeans_target_k": 8,
+    "kmeans_actual_k": 8,
+    "kmeans_n_iter": 22
+  },
+  {
+    "seed": 4,
+    "louvain_community_count": 7,
+    "kmeans_target_k": 7,
+    "kmeans_actual_k": 7,
+    "kmeans_n_iter": 19
+  }
+]

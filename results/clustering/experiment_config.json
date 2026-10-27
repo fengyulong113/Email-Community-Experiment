@@ -1,0 +1,29 @@
+{
+  "python_version": "3.13.13",
+  "networkx_version": "3.7",
+  "numpy_version": "2.5.4",
+  "sklearn_version": "1.9.1",
+  "node_count": 986,
+  "edge_count": 16064,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "feature": "binary adjacency rows without scaling",
+  "k_rule": "use Louvain community count from the same seed",
+  "louvain": {
+    "weight": null,
+    "resolution": 1.0,
+    "threshold": 1e-07
+  },
+  "kmeans": {
+    "init": "k-means++",
+    "n_init": 10,
+    "max_iter": 300,
+    "tol": 0.0001,
+    "algorithm": "lloyd"
+  }
+}
