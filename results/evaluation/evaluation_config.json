@@ -1,0 +1,20 @@
+{
+  "node_count": 986,
+  "edge_count": 16064,
+  "department_count": 42,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "q_weight": null,
+  "q_resolution": 1.0,
+  "nmi_average_method": "arithmetic",
+  "std_ddof": 1,
+  "python_version": "3.13.13",
+  "networkx_version": "3.7",
+  "numpy_version": "2.5.4",
+  "sklearn_version": "1.9.1"
+}
